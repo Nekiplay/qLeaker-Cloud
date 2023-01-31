@@ -1,0 +1,17 @@
+{
+  "gmod_addons": [
+    {
+      "name": "Test",
+      "image": "",
+      "content": "",
+      "store": {
+        "name": "Test",
+        "url": "https:\\1.test"
+      },
+      "types": [
+        "Entity"
+      ]
+    }
+  ],
+  "mc_plugins": []
+}
