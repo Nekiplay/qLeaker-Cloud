@@ -82,7 +82,7 @@
       "java": "Any",
       "types": [
         "Itemframe",
-		"GUI"
+        "GUI"
       ]
     },
     {
@@ -152,6 +152,23 @@
       "types": [
         "PvP",
         "Minigame"
+      ]
+    },
+    {
+      "name": "AdvancedAbilities",
+      "version": "2.4.2",
+      "image": "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",
+      "store": {
+        "name": "Spigot",
+        "url": "https://www.spigotmc.org/resources/advanced-abilities-%E2%9A%94%EF%B8%8F.21983/"
+      },
+      "source": "",
+      "download": "https://github.com/Nekiplay/qLeaker-Cloud/raw/main/files/minecraft_plugins/AdvancedAbilities.jar",
+      "extension": ".jar",
+      "mcversion": "1.7 - 1.16",
+      "java": "Any",
+      "types": [
+        "Misc"
       ]
     }
   ]
