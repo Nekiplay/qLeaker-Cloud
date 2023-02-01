@@ -53,5 +53,24 @@
       ]
     }
   ],
-  "mc_plugins": []
+  "mc_plugins": [
+    {
+      "name": "FrostPractice",
+      "version": "10.6",
+      "image": "iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAAAbxQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////qtjplAAAAJN0Uk5TAAAQTA8jiyEBC14gCiqNNQIGGQ2ErCQFBz5sBF8zdubTkDJAGC1p8epZw2pbFQld7TBGzUkMUeT6YlPAGyIaSFpC3fuVDpT21MY2a54TyLjagG/FeU0vS97RhpyDbVBwKKPgA066VFhSLIjfelXO16++1ejypSth5YwSMR43fcH345o/HEFck+8uT/3CobOXrZsIJyaJHAAAAAFiS0dEAf8CLd4AAAAJcEhZcwAACxMAAAsTAQCanBgAAAGFSURBVDjL1ZJXU8JAFIU5CphYCUViQ9CoiIAVu6Ji7xV7jb1iw17A3kv+sAFFxZIZx/HB87Ize7/dc/eeFYn+kxAQKIYgIJEGCQMEScC7Qpgjg0OEAISGhUd8BiCjIALkClBKVaTHAmr6vROiomMAxMYRmnitjgYpQ0KiH8Ak8a1BQSen6FMNabTRBLPic69Aup7LyMzKzhFLLABNwK+YJEZuHsflFyDaUFiUhmJlCV5KllL+equ2rLyC4zhbZRVVXVNbF6Wut/iAhsYmWJulLa18Pd/WRqC9Q9fZ0hVG+AB7t8za0ytX1vX1VwwMDoEaHjGJR21jsSx8/uO1E7rJqekZJpKEDKV23rIkeHZunvTOHvTC4pJjeWV1LUO7rnGyMKu9++zG5tY24Rkgk7izyzBBe2X7B4ecy31EPZ87PjlNj4AHwKtVlfXMxZ072i/4YGE2XQ7KPw4LrDNZpb/SX9+43Y23UslXyYN2GjV3944HTfnjt7kDLEsIfpvf6O1Rfwb8XE9iz0JZ1v4rSQAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMC0wOC0yMVQyMjo1ODowOCswMDowMK80qRYAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjAtMDgtMjFUMjI6NTg6MDgrMDA6MDDeaRGqAAAARnRFWHRzb2Z0d2FyZQBJbWFnZU1hZ2ljayA2LjcuOC05IDIwMTQtMDUtMTIgUTE2IGh0dHA6Ly93d3cuaW1hZ2VtYWdpY2sub3Jn3IbtAAAAABh0RVh0VGh1bWI6OkRvY3VtZW50OjpQYWdlcwAxp/+7LwAAABh0RVh0VGh1bWI6OkltYWdlOjpoZWlnaHQAMTkyDwByhQAAABd0RVh0VGh1bWI6OkltYWdlOjpXaWR0aAAxOTLTrCEIAAAAGXRFWHRUaHVtYjo6TWltZXR5cGUAaW1hZ2UvcG5nP7JWTgAAABd0RVh0VGh1bWI6Ok1UaW1lADE1OTgwNTA2ODgdTecSAAAAD3RFWHRUaHVtYjo6U2l6ZQAwQkKUoj7sAAAAVnRFWHRUaHVtYjo6VVJJAGZpbGU6Ly8vbW50bG9nL2Zhdmljb25zLzIwMjAtMDgtMjEvMzAwYmE3YWMxYjEzYTZlYjRiOGQ3ZjY2NzhjYjk5NmYuaWNvLnBuZ0NJVIAAAAAASUVORK5CYII=",
+      "store": {
+        "name": "WebSite",
+        "url": "https://www.frostpractice.com"
+      },
+      "source": "https://github.com/Nekiplay/MCAddons/raw/main/source/Source%20Frost-10.6.zip",
+      "download": "https://github.com/Nekiplay/MCAddons/raw/main/files/Frost-10.6.jar",
+      "extension": ".jar",
+      "mcversion": "1.7 - 1.8",
+      "java": "Any",
+      "types": [
+        "PvP",
+        "Minigame"
+      ]
+    }
+  ]
 }
