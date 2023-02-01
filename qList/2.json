@@ -167,7 +167,8 @@
       "mcversion": "1.8 - 1.18",
       "java": "Any",
       "types": [
-        "Misc"
+        "Misc",
+		"PvE"
       ]
     }
   ]
