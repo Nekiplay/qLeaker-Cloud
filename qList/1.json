@@ -81,7 +81,8 @@
       "mcversion": "1.8 - 1.19",
       "java": "Any",
       "types": [
-        "Itemframe"
+        "Itemframe",
+		"GUI"
       ]
     },
     {
@@ -115,7 +116,7 @@
       "mcversion": "1.8 - 1.19",
       "java": "Any",
       "types": [
-        "Misc"
+        "GUI"
       ]
     },
     {

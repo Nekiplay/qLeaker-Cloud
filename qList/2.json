@@ -132,7 +132,8 @@
       "mcversion": "1.8 - 1.19",
       "java": "Any",
       "types": [
-        "Misc"
+        "GUI",
+		"Shop"
       ]
     },
     {
