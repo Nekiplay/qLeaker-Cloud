@@ -187,6 +187,24 @@
       "types": [
         "Misc"
       ]
+    },
+    {
+      "name": "Ultra Customizer",
+      "version": "2.0.5",
+      "image": "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",
+      "store": {
+        "name": "Spigot",
+        "url": "https://www.spigotmc.org/resources/ultra-customizer.49330"
+      },
+      "source": "",
+      "download": "https://github.com/Nekiplay/qLeaker-Cloud/raw/main/files/minecraft_plugins/UltraCustomize.jar",
+      "extension": ".jar",
+      "mcversion": "1.8 - 1.19",
+      "java": "Any",
+      "types": [
+        "Misc",
+		"GUI"
+      ]
     }
   ]
 }
