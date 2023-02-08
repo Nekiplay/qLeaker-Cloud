@@ -182,7 +182,7 @@
       "source": "",
       "download": "https://github.com/Nekiplay/qLeaker-Cloud/raw/main/files/minecraft_plugins/DeluxeChat-1.16.2.jar",
       "extension": ".jar",
-      "mcversion": "1.8 - 1.16",
+      "mcversion": "1.8 - 1.16.5",
       "java": "Any",
       "types": [
         "Misc"
