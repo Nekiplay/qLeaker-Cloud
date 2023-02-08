@@ -180,7 +180,7 @@
       "source": "",
       "download": "https://github.com/Nekiplay/qLeaker-Cloud/raw/main/files/minecraft_plugins/MysteryChest-4.0.0.jar",
       "extension": ".jar",
-      "mcversion": "1.8 - 1.16.4",
+      "mcversion": "1.8 - 1.16.5",
       "java": "Any",
       "types": [
         "GUI"
