@@ -203,7 +203,7 @@
       "java": "Any",
       "types": [
         "Misc",
-		"GUI"
+	"GUI"
       ]
     }
   ]
